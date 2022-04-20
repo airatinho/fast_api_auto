@@ -1,6 +1,6 @@
 1.Установить зависимости pip install requirements.txt
 2.Запустить app.py
-3.Проверить через jn test_api.ipynb
+3.Проверить через tests/test_1.py
 
 БД Postgres
 
